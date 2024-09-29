@@ -67,41 +67,41 @@ function getWeatherData() {
 
             {
                 if (iconCode == '01d') {
-                    app.style.backgroundImage = "url('day/clear.png')";
+                    app.style.backgroundImage = "url('clear.png')";
                 } else if (iconCode == '02d') {
-                    app.style.backgroundImage = "url('day/fewclouds.png')";
+                    app.style.backgroundImage = "url('fewclouds.png')";
                 } else if (iconCode == '03d') {
-                    app.style.backgroundImage = "url('day/scatteredclouds.png')";
+                    app.style.backgroundImage = "url('scatteredclouds.png')";
                 } else if (iconCode == '04d') {
-                    app.style.backgroundImage = "url('day/cloudy.png')";
+                    app.style.backgroundImage = "url('cloudy.png')";
                 } else if (iconCode == '09d') {
-                    app.style.backgroundImage = "url('day/showerrain.png')";
+                    app.style.backgroundImage = "url('showerrain.png')";
                 } else if (iconCode == '10d') {
-                    app.style.backgroundImage = "url('day/rainy.png')";
+                    app.style.backgroundImage = "url('rainy.png')";
                 } else if (iconCode == '11d') {
-                    app.style.backgroundImage = "url('day/thunderstorm.png')";
+                    app.style.backgroundImage = "url('thunderstorm.png')";
                 } else if (iconCode == '13d') {
-                    app.style.backgroundImage = "url('day/haze.png')";
+                    app.style.backgroundImage = "url('haze.png')";
                 } else if (iconCode == '50d') {
-                    app.style.backgroundImage = "url('day/rainy.png')";
+                    app.style.backgroundImage = "url('rainy.png')";
                 } else if (iconCode == '01n') {
-                    app.style.backgroundImage = "url('night/clear.png')";
+                    app.style.backgroundImage = "url('clear.png')";
                 } else if (iconCode == '02n') {
-                    app.style.backgroundImage = "url('night/cloudy.png')";
+                    app.style.backgroundImage = "url('cloudy.png')";
                 } else if (iconCode == '03n') {
-                    app.style.backgroundImage = "url('night/cloudy.png')";
+                    app.style.backgroundImage = "url('cloudy.png')";
                 } else if (iconCode == '04n') {
-                    app.style.backgroundImage = "url('night/cloudy.png')";
+                    app.style.backgroundImage = "url('cloudy.png')";
                 } else if (iconCode == '09n') {
-                    app.style.backgroundImage = "url('night/showerrain.png')";
+                    app.style.backgroundImage = "url('showerrain.png')";
                 } else if (iconCode == '10n') {
-                    app.style.backgroundImage = "url('night/rainy.png')";
+                    app.style.backgroundImage = "url('rainy.png')";
                 } else if (iconCode == '11n') {
-                    app.style.backgroundImage = "url('night/thunderstorm.png')";
+                    app.style.backgroundImage = "url('thunderstorm.png')";
                 } else if (iconCode == '13n') {
-                    app.style.backgroundImage = "url('night/snowy.png')";
+                    app.style.backgroundImage = "url('snowy.png')";
                 } else if (iconCode == '50n') {
-                    app.style.backgroundImage = "url('night/haze.png')";
+                    app.style.backgroundImage = "url('haze.png')";
                 }
             }
 
